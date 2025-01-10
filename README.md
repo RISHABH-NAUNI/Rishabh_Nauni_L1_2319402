@@ -1,1 +1,1 @@
-# Rishabh_Nauni_L1_2319402
+# This is my mini project on "E-Commerce Products Recommendation System"
